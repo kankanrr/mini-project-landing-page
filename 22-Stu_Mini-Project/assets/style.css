@@ -12,6 +12,13 @@ footer {
     padding: 16px;
 }
 
+header {
+    background-color: rgb(254, 110, 110);
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
 main {
     min-height: 80vh;
 }
